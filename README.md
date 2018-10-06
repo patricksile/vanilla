@@ -1,5 +1,10 @@
 # Build an Image Search App with:
 
+#### Link to the finished app
+[Image Search APP (VANILLAJS)](https://ps-vanillajs.now.sh)
+
+![example-site](ps-vanillajs-site.gif)
+
 ## Vanilla JS
 
 All apps will contact the unsplash Image Search API.
@@ -41,4 +46,5 @@ body {
 * [ ] Show loading image
 * [ ] Append Results to the page
 * [ ] Hide loading image
+
 
