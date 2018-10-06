@@ -1,2 +1,44 @@
-# vanilla
-Image Search App
+# Build an Image Search App with:
+
+## Vanilla JS
+
+All apps will contact the unsplash Image Search API.
+
+> Image search API like [Unsplash](https://unsplash.com/developers)
+
+`https://api.unsplash.com/search/photos/`
+
+> You will need an access key from unsplash.com. After signing up, create an application here:https://unsplash.com/oauth/applications
+
+All apps will use the skeleton CSS framework:
+
+```html
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+```
+
+And use this body style:
+
+```css
+body {
+  width: 80%;
+  margin: 2em auto 0 auto;
+}
+```
+
+#### This app demonstrates:
+
+* User Input
+* DOM Events
+* API Requests
+* Conditional Rendering
+* Rendering Lists of Data
+
+## Vanilla JS
+---
+
+* [ ] Add search form to page
+* [ ] Make API Request with search term when form is submitted
+* [ ] Show loading image
+* [ ] Append Results to the page
+* [ ] Hide loading image
+
