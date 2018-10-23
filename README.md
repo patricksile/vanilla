@@ -1,4 +1,5 @@
-# Build an Image Search App with:
+# Build an Image Search App:
+
 
 #### Link to the finished app
 [Image Search APP (VANILLAJS)](https://ps-vanillajs.now.sh)
