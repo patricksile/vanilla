@@ -16,7 +16,7 @@
 
 * **We will be using the unsplash API , create a developper account:**
   > [Create unsplash for developers account](https://unsplash.com/developers)
-<https://zeit.co/now>
+
 
 * **Install lite-server:**
   * **For more details**
