@@ -18,7 +18,13 @@
   > [Create unsplash for developers account](https://unsplash.com/developers)
 <https://zeit.co/now>
 
-
+* **Install lite-server:**
+  * **For more details**
+  > [lite-server npm](https://www.npmjs.com/package/lite-server)
+  
+   ```bash
+    npm install -g lite-server
+   ```
 * **Create an account a NOW account:**
   > [Create NOW Account](https://zeit.co/now)
   * **Install NOW CLI tool:**
