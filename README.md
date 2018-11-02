@@ -16,7 +16,7 @@
 
 * **We will be using the unsplash API , create a developper account:**
   > [Create unsplash for developers account](https://unsplash.com/developers)
-
+<https://zeit.co/now>
 
 * **Install lite-server:**
   * **For more details**
@@ -25,6 +25,7 @@
    ```bash
     npm install -g lite-server
    ```
+
 * **Create an account a NOW account:**
   > [Create NOW Account](https://zeit.co/now)
   * **Install NOW CLI tool:**
@@ -97,7 +98,7 @@ body {
 * Conditional Rendering
 * Rendering Lists of Data
 
-## Vanilla JS
+#### Vanilla JS Checklist
 ---
 
 * [ ] Add search form to page
@@ -105,5 +106,53 @@ body {
 * [ ] Show loading image
 * [ ] Append Results to the page
 * [ ] Hide loading image
+
+
+### VueJS
+
+#### Things you will have to lookup in the VueJS documentation:
+
+> **In VueJS guide Read on this topics:**
+> 
+> Introduction to VueJS [Introduction — Vue.js](https://vuejs.org/v2/guide/index.html)
+> * Form Input Bindings [Form Input Bindings — Vue.js](https://vuejs.org/v2/guide/forms.html)
+> * Directives(v-model, @submit or v-on:submit, v-if, v-for, v-bind, v-bind:key or :key, v-bind:src or :src) [Template Syntax — Vue.js](https://vuejs.org/v2/guide/syntax.html#Directives)
+> * Template Syntax(interpolations) [Template Syntax — Vue.js](https://vuejs.org/v2/guide/syntax.html#Interpolations)
+> 
+
+> [VueJS Documentation](https://vuejs.org/v2/guide/)
+
+
+#### VueJS Checklist
+* [ ] Install VueJS
+  ```bash
+  npm i -g vue
+  ```
+  * [ ] Install Vue boilerplate
+  ```bash
+  vue create <vue project name>
+  ```
+* [ ] Serve the Vue Project
+  ```bash
+  yarn serve
+  ```
+* [ ] Remove un-needed things delete /components/HelloWorld.vue and clean up (App.vue)
+  * [ ] Install the VSCode extension "Vetur"
+* [ ] Add Skeleton CDN link in /public/index.html
+ ```html
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+
+```
+
+* [ ] Add search form to page.
+* [ ] Update state when iput changes
+* [ ] Make API Request with search term when form is submitted
+* [ ] Show loading image
+* [ ] Append Results to the page
+* [ ] Hidde loading image
+
+
+
+
 
 
