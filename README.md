@@ -126,7 +126,7 @@ body {
 #### VueJS Checklist
 * [ ] Install VueJS
   ```bash
-  npm i -g vue
+  npm i -g @vue/cli
   ```
   * [ ] Install Vue boilerplate
   ```bash
